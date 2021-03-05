@@ -1,15 +1,16 @@
-id: opecha:P006986
+id: P006986
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1CZ1302
   title: བར་དུ་དགེ་བའི་ཁྲིད་
-  volume:
+  author: ''
+  volumes:
     23cb3937710f413dad075c54eee54a03:
       image_group_id: I1CZ1825
       title: Volume 1 of bar du dge ba'i khrid
       volume_number: 1
       total_pages: 76
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བར་དུ་དགེ་བའི་ཁྲིད་
   author: ''
