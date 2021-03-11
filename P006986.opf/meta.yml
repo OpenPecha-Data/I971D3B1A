@@ -5,11 +5,12 @@ source_metadata:
   title: བར་དུ་དགེ་བའི་ཁྲིད་
   author: ''
   volumes:
-    b24d660337ee432f921a8dd89f32ea51:
+    23cb3937710f413dad075c54eee54a03:
       image_group_id: I1CZ1825
-      title: ''
+      title: Volume 1 of bar du dge ba'i khrid
       volume_number: 1
       total_pages: 76
+      base_file: v001.txt
 ebook_metadata:
   title: བར་དུ་དགེ་བའི་ཁྲིད་
   author: ''
