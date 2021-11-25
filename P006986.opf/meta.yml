@@ -1,5 +1,7 @@
 id: P006986
 initial_creation_type: ocr
+created_at: 29/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W1CZ1302
   title: བར་དུ་དགེ་བའི་ཁྲིད་
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 76
       base_file: v001.txt
-ebook_metadata:
-  title: བར་དུ་དགེ་བའི་ཁྲིད་
-  author: ''
-  sku: P006986
-  cover: cover.jpg
-  layers:
-  - pagination
